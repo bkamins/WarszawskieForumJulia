@@ -13,3 +13,4 @@ Spotkanie      | Temat | Prezentujący
 2019-12-03, 8:00, SGH, Budynek A | [Praca z Git i GitHub w procesie tworzenia kodu Julia](https://www.meetup.com/Warszawskie-Forum-Julia/events/266749823/) | Bogumił Kamiński
 2019-12-17, 8:00, SGH, Budynek A | [Wprowadzenie do wielowątkowości w Julia 1.3](https://www.meetup.com/Warszawskie-Forum-Julia/events/266928094/) | Bogumił Kamiński
 2020-01-14, 8:00, SGH, Budynek A | [System typów w języku Julia](https://www.meetup.com/Warszawskie-Forum-Julia/events/267246814/) | Bogumił Kamiński
+2020-02-26, 15:20, SGH, Budynek G, sala 236 | [O pakietach w języku Julia i zarządzaniu binarnymi dependencjami](https://www.meetup.com/Warszawskie-Forum-Julia/events/268108418/) | [Przemysław Szufel](https://github.com/pszufe)
