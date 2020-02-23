@@ -14,3 +14,4 @@ Spotkanie      | Temat | Prezentujący
 2019-12-17, 8:00, SGH, Budynek A | [Wprowadzenie do wielowątkowości w Julia 1.3](https://www.meetup.com/Warszawskie-Forum-Julia/events/266928094/) | Bogumił Kamiński
 2020-01-14, 8:00, SGH, Budynek A | [System typów w języku Julia](https://www.meetup.com/Warszawskie-Forum-Julia/events/267246814/) | Bogumił Kamiński
 2020-02-26, 15:20, SGH, Budynek G, sala 236 | [O pakietach w języku Julia i zarządzaniu binarnymi dependencjami](https://www.meetup.com/Warszawskie-Forum-Julia/events/268108418/) | [Przemysław Szufel](https://github.com/pszufe)
+2020-03-26, całodniowe, Biblioteka UW, ul. Dobra 56/66 | [Introduction to scientific computing using the Julia language](https://supercomputingfrontiers.eu/2020/tutorials-programme/) | [Przemysław Szufel](https://github.com/pszufe)
